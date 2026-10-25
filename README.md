@@ -6,7 +6,7 @@
 
 <p align="center"><strong>Advanced Tag Editor for Windows</strong></p>
 
-<p align="center">Metadata, artwork and library care for audio and video collections.</p>
+<p align="center">Metadata, artwork and library care for audio and video collections</p>
 
 <p align="center">
   <a href="https://github.com/Arctisoft-Studio/Notalis-Advanced-Tag-Editor/releases/latest"><strong>Download</strong></a> ·
