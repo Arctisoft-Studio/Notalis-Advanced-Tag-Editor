@@ -31,7 +31,7 @@ Notalis is the metadata editor of Arctisoft Studio. Correct individual files, ta
 - **Artwork collections.** Add, replace, reorder, describe and export embedded images, assign picture types, and control dimensions and format.
 - **Auto Tag.** Identify single tracks, whole releases or complete libraries against the Arctisoft Catalogue, with track mappings and confidence presented for review.
 - **Autopilot.** One run through identification, metadata repair, artwork, lyrics and duplicate review. Eligible changes are applied; uncertain identities and conflicts are left for you.
-- **Library care.** Indexed libraries, Library Health, duplicate detection by local audio fingerprint, and Clean & Organize for file and folder organisation that carries cover art, lyrics and cue sheets along.
+- **Library care.** Indexed libraries, Library Health, duplicate detection by local audio fingerprint, and Clean & Organize for file and folder organization that carries cover art, lyrics and cue sheets along.
 - **Rules and text tools.** Rule Studio with per-action conditions and chained rules, text transformations, three filename converters, Transfer Tags, and CSV, JSON, HTML and playlist interchange.
 - **Delivery preparation.** Delivery Check for metadata, artwork, formats and release consistency; loudness and true-peak measurement with ReplayGain (native R128 gain for Opus); and a Chapter Editor that imports and exports cue sheets, Audacity labels, Ogg and FFmpeg chapters.
 - **Studio Automation.** Saved jobs with dry runs and reports, hourly or daily schedules through Windows Task Scheduler, watch folders and a command-line runner.
@@ -40,7 +40,7 @@ An offline user guide and keyboard reference are built into **Help**.
 
 ## Editions
 
-Basic is a complete tag editor. Premium is the studio layer: work repeated by rule, applied to whole releases and libraries, or delivered to a specification. Every Premium workflow opens, analyses and previews in Basic; Premium is needed at the step where its result is applied. The number of files, tag fields and formats, undo and recovery are never limited by the edition.
+Basic is a complete tag editor. Premium is the studio layer: work repeated by rule, applied to whole releases and libraries, or delivered to a specification. Every Premium workflow opens, analyzes and previews in Basic; Premium is needed at the step where its result is applied. The number of files, tag fields and formats, undo and recovery are never limited by the edition.
 
 | | Basic · free | Premium |
 | --- | :---: | :---: |
@@ -102,4 +102,4 @@ Notalis is proprietary commercial software. This repository holds its public doc
 
 ---
 
-<p align="center"><sub>© 2025–2026 Arctisoft Studio · Bernd Julian Hagen · Austria. All rights reserved.</sub></p>
+<p align="center"><sub>© 2025–2026 Arctisoft Studio. All rights reserved.</sub></p>
